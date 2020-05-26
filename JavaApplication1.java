@@ -12,7 +12,6 @@ public class JavaApplication1 {
 
 
     public static void main(String[] args) {
-        // Mahmoud AlHabil 120180756
 
         Scanner input = new Scanner(System.in);
 System.out.println("If you are the administrator, enter number 1\n"
